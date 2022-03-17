@@ -1,0 +1,31 @@
+.p1 
+{
+    background-color: lightpink; 
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#d1 
+{
+    color: blue;
+    font-size: 36px;
+}
+
+.p2 
+{
+    background-color: lightpink;
+    font-size: 24px;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#d2 
+{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.p3 
+{
+    background-color: lightpink; 
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
